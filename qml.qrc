@@ -2,5 +2,10 @@
     <qresource prefix="/">
         <file>res/plus.png</file>
         <file>qml/main.qml</file>
+        <file>qml/StackPage1.qml</file>
+        <file>qml/StackPage2.qml</file>
+        <file>qml/StackPage3.qml</file>
+        <file>qml/StackPage4.qml</file>
+        <file>qml/StackPage5.qml</file>
     </qresource>
 </RCC>
